@@ -1,0 +1,58 @@
+
+		body {
+			margin: 0;
+			padding: 0;
+			background-color: #efeee7;
+		}
+
+		a {
+			color: #d21034;
+		}
+
+		h1 {
+			font-size: 24px;
+			margin: 0 auto;
+			font-family: "Times New Roman", "Georgia", Times, serif;
+			font-weight: bold;
+			color: #e0dfd1;
+			text-align: center;
+			padding-top: 10px;
+			padding-bottom: 10px;
+			background-color: #1f1d20;
+			line-height: 1.5;
+
+		}
+
+		h2 {
+			font-size: 20px;
+			font-weight: bold;
+			margin-left: 30px;
+			color: #1f1d20;
+			line-height: 1.5;
+		}
+
+
+		#main-bio {
+			float: left;
+			width: 70%;
+			line-height: 1.5;
+			margin-top: 20px;
+			font-size: 14px;
+			color: #1f1d20;
+		}
+
+		#bio-image {
+			display: black;
+			float: left;
+			margin-right: 20px;
+			margin-left: 30px;
+		}
+
+		#contact-info {
+			margin-top: 20px;
+			float: left;
+			width: 30%;
+			line-height: 1.5;
+			font-size: 14px;
+			color: #1f1d20;
+		}
